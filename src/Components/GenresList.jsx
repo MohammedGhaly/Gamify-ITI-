@@ -7,7 +7,7 @@ import {
   ListItem,
 } from "@chakra-ui/react";
 import useGenres from "../hooks/useGenres";
-import getCroppedUrl from "../../../../React/Side-Projects/Gamify/src/Services/image-url";
+import getCroppedUrl from "../Services/image-url";
 import GenreSkeleton from "./GenreSkeleton";
 
 const skeletons = [1, 2, 3, 4, 5, 6, 7, 8];
