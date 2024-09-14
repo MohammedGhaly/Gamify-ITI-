@@ -332,7 +332,7 @@ function LandingPage() {
         <Text textAlign='left' pt={4} fontSize={{ base: 'sm', md: 'md' }} maxW="300px">
           Lorem Ipsum is simply dummy text of the printing and typesetting industry.
         </Text>
-        <Text pt={4} fontSize='sm'>@Lorem</Text>
+        <Text pt={4} fontSize='sm'>@Gamify</Text>
       </VStack>
 
       {/* Middle Section */}
