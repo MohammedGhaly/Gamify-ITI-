@@ -1,0 +1,1766 @@
+{
+  "storeGames": [
+    {
+      "id": 3498,
+      "slug": "grand-theft-auto-v",
+      "name": "Grand Theft Auto V",
+      "name_original": "Grand Theft Auto V",
+      "description": "<p>Rockstar Games went bigger, since their previous installment of the series. You get the complicated and realistic world-building from Liberty City of GTA4 in the setting of lively and diverse Los Santos, from an old fan favorite GTA San Andreas. 561 different vehicles (including every transport you can operate) and the amount is rising with every update. <br />\nSimultaneous storytelling from three unique perspectives: <br />\nFollow Michael, ex-criminal living his life of leisure away from the past, Franklin, a kid that seeks the better future, and Trevor, the exact past Michael is trying to run away from. <br />\nGTA Online will provide a lot of additional challenge even for the experienced players, coming fresh from the story mode. Now you will have other players around that can help you just as likely as ruin your mission. Every GTA mechanic up to date can be experienced by players through the unique customizable character, and community content paired with the leveling system tends to keep everyone busy and engaged.</p>\n<p>Español<br />\nRockstar Games se hizo más grande desde su entrega anterior de la serie. Obtienes la construcción del mundo complicada y realista de Liberty City de GTA4 en el escenario de Los Santos, un viejo favorito de los fans, GTA San Andreas. 561 vehículos diferentes (incluidos todos los transportes que puede operar) y la cantidad aumenta con cada actualización.<br />\nNarración simultánea desde tres perspectivas únicas:<br />\nSigue a Michael, ex-criminal que vive su vida de ocio lejos del pasado, Franklin, un niño que busca un futuro mejor, y Trevor, el pasado exacto del que Michael está tratando de huir.<br />\nGTA Online proporcionará muchos desafíos adicionales incluso para los jugadores experimentados, recién llegados del modo historia. Ahora tendrás otros jugadores cerca que pueden ayudarte con la misma probabilidad que arruinar tu misión. Los jugadores pueden experimentar todas las mecánicas de GTA actualizadas a través del personaje personalizable único, y el contenido de la comunidad combinado con el sistema de nivelación tiende a mantener a todos ocupados y comprometidos.</p>",
+      "metacritic": 92,
+      "metacritic_platforms": [
+        {
+          "metascore": 96,
+          "url": "https://www.metacritic.com/game/pc/grand-theft-auto-v",
+          "platform": {
+            "platform": 4,
+            "name": "PC",
+            "slug": "pc"
+          }
+        },
+        {
+          "metascore": 97,
+          "url": "https://www.metacritic.com/game/playstation-3/grand-theft-auto-v",
+          "platform": {
+            "platform": 16,
+            "name": "PlayStation 3",
+            "slug": "playstation3"
+          }
+        },
+        {
+          "metascore": 97,
+          "url": "https://www.metacritic.com/game/playstation-4/grand-theft-auto-v",
+          "platform": {
+            "platform": 18,
+            "name": "PlayStation 4",
+            "slug": "playstation4"
+          }
+        },
+        {
+          "metascore": 81,
+          "url": "https://www.metacritic.com/game/playstation-5/grand-theft-auto-v",
+          "platform": {
+            "platform": 187,
+            "name": "PlayStation 5",
+            "slug": "playstation5"
+          }
+        },
+        {
+          "metascore": 97,
+          "url": "https://www.metacritic.com/game/xbox-360/grand-theft-auto-v",
+          "platform": {
+            "platform": 14,
+            "name": "Xbox 360",
+            "slug": "xbox360"
+          }
+        },
+        {
+          "metascore": 97,
+          "url": "https://www.metacritic.com/game/xbox-one/grand-theft-auto-v",
+          "platform": {
+            "platform": 1,
+            "name": "Xbox One",
+            "slug": "xbox-one"
+          }
+        },
+        {
+          "metascore": 79,
+          "url": "https://www.metacritic.com/game/xbox-series-x/grand-theft-auto-v",
+          "platform": {
+            "platform": 186,
+            "name": "Xbox Series S/X",
+            "slug": "xbox-series-x"
+          }
+        }
+      ],
+      "released": "2013-09-17",
+      "tba": false,
+      "updated": "2024-09-12T15:49:45",
+      "background_image": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
+      "background_image_additional": "https://media.rawg.io/media/screenshots/5f5/5f5a38a222252d996b18962806eed707.jpg",
+      "website": "http://www.rockstargames.com/V/",
+      "rating": 4.47,
+      "rating_top": 5,
+      "ratings": [
+        {
+          "id": 5,
+          "title": "exceptional",
+          "count": 4125,
+          "percent": 59.14
+        },
+        {
+          "id": 4,
+          "title": "recommended",
+          "count": 2280,
+          "percent": 32.69
+        },
+        {
+          "id": 3,
+          "title": "meh",
+          "count": 441,
+          "percent": 6.32
+        },
+        {
+          "id": 1,
+          "title": "skip",
+          "count": 129,
+          "percent": 1.85
+        }
+      ],
+      "reactions": {
+        "1": 30,
+        "2": 8,
+        "3": 37,
+        "4": 23,
+        "5": 13,
+        "6": 10,
+        "7": 19,
+        "8": 23,
+        "9": 2,
+        "10": 10,
+        "11": 20,
+        "12": 16,
+        "13": 1,
+        "14": 3,
+        "15": 2,
+        "16": 6,
+        "18": 4,
+        "20": 1,
+        "21": 2
+      },
+      "added": 21152,
+      "added_by_status": {
+        "yet": 533,
+        "owned": 12181,
+        "beaten": 5989,
+        "toplay": 609,
+        "dropped": 1111,
+        "playing": 729
+      },
+      "playtime": 74,
+      "screenshots_count": 58,
+      "movies_count": 8,
+      "creators_count": 11,
+      "achievements_count": 539,
+      "parent_achievements_count": 75,
+      "reddit_url": "https://www.reddit.com/r/GrandTheftAutoV/",
+      "reddit_name": "",
+      "reddit_description": "",
+      "reddit_logo": "",
+      "reddit_count": 5184,
+      "twitch_count": 102,
+      "youtube_count": 1000000,
+      "reviews_text_count": 106,
+      "ratings_count": 6869,
+      "suggestions_count": 434,
+      "alternative_names": [
+        "GTA 5",
+        "GTA V",
+        "GTA5",
+        "GTAV"
+      ],
+      "metacritic_url": "https://www.metacritic.com/game/pc/grand-theft-auto-v",
+      "parents_count": 0,
+      "additions_count": 3,
+      "game_series_count": 12,
+      "user_game": null,
+      "reviews_count": 6975,
+      "saturated_color": "0f0f0f",
+      "dominant_color": "0f0f0f",
+      "parent_platforms": [
+        {
+          "platform": {
+            "id": 1,
+            "name": "PC",
+            "slug": "pc"
+          }
+        },
+        {
+          "platform": {
+            "id": 2,
+            "name": "PlayStation",
+            "slug": "playstation"
+          }
+        },
+        {
+          "platform": {
+            "id": 3,
+            "name": "Xbox",
+            "slug": "xbox"
+          }
+        }
+      ],
+      "platforms": [
+        {
+          "platform": {
+            "id": 4,
+            "name": "PC",
+            "slug": "pc",
+            "image": null,
+            "year_end": null,
+            "year_start": null,
+            "games_count": 535509,
+            "image_background": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg"
+          },
+          "released_at": "2013-09-17",
+          "requirements": {
+            "minimum": "Minimum:OS: Windows 10 64 Bit, Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1, Windows Vista 64 Bit Service Pack 2* (*NVIDIA video card recommended if running Vista OS)Processor: Intel Core 2 Quad CPU Q6600 @ 2.40GHz (4 CPUs) / AMD Phenom 9850 Quad-Core Processor (4 CPUs) @ 2.5GHzMemory: 4 GB RAMGraphics: NVIDIA 9800 GT 1GB / AMD HD 4870 1GB (DX 10, 10.1, 11)Storage: 72 GB available spaceSound Card: 100% DirectX 10 compatibleAdditional Notes: Over time downloadable content and programming changes will change the system requirements for this game.  Please refer to your hardware manufacturer and www.rockstargames.com/support for current compatibility information. Some system components such as mobile chipsets, integrated, and AGP graphics cards may be incompatible. Unlisted specifications may not be supported by publisher.     Other requirements:  Installation and online play requires log-in to Rockstar Games Social Club (13+) network; internet connection required for activation, online play, and periodic entitlement verification; software installations required including Rockstar Games Social Club platform, DirectX , Chromium, and Microsoft Visual C++ 2008 sp1 Redistributable Package, and authentication software that recognizes certain hardware attributes for entitlement, digital rights management, system, and other support purposes.     SINGLE USE SERIAL CODE REGISTRATION VIA INTERNET REQUIRED; REGISTRATION IS LIMITED TO ONE ROCKSTAR GAMES SOCIAL CLUB ACCOUNT (13+) PER SERIAL CODE; ONLY ONE PC LOG-IN ALLOWED PER SOCIAL CLUB ACCOUNT AT ANY TIME; SERIAL CODE(S) ARE NON-TRANSFERABLE ONCE USED; SOCIAL CLUB ACCOUNTS ARE NON-TRANSFERABLE.  Partner Requirements:  Please check the terms of service of this site before purchasing this software.",
+            "recommended": "Recommended:OS: Windows 10 64 Bit, Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1Processor: Intel Core i5 3470 @ 3.2GHz (4 CPUs) / AMD X8 FX-8350 @ 4GHz (8 CPUs)Memory: 8 GB RAMGraphics: NVIDIA GTX 660 2GB / AMD HD 7870 2GBStorage: 72 GB available spaceSound Card: 100% DirectX 10 compatibleAdditional Notes:"
+          }
+        },
+        {
+          "platform": {
+            "id": 187,
+            "name": "PlayStation 5",
+            "slug": "playstation5",
+            "image": null,
+            "year_end": null,
+            "year_start": 2020,
+            "games_count": 1113,
+            "image_background": "https://media.rawg.io/media/games/f24/f2493ea338fe7bd3c7d73750a85a0959.jpeg"
+          },
+          "released_at": "2013-09-17",
+          "requirements": {}
+        },
+        {
+          "platform": {
+            "id": 186,
+            "name": "Xbox Series S/X",
+            "slug": "xbox-series-x",
+            "image": null,
+            "year_end": null,
+            "year_start": 2020,
+            "games_count": 978,
+            "image_background": "https://media.rawg.io/media/games/34b/34b1f1850a1c06fd971bc6ab3ac0ce0e.jpg"
+          },
+          "released_at": "2013-09-17",
+          "requirements": {}
+        },
+        {
+          "platform": {
+            "id": 18,
+            "name": "PlayStation 4",
+            "slug": "playstation4",
+            "image": null,
+            "year_end": null,
+            "year_start": null,
+            "games_count": 6829,
+            "image_background": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg"
+          },
+          "released_at": "2013-09-17",
+          "requirements": {}
+        },
+        {
+          "platform": {
+            "id": 16,
+            "name": "PlayStation 3",
+            "slug": "playstation3",
+            "image": null,
+            "year_end": null,
+            "year_start": null,
+            "games_count": 3166,
+            "image_background": "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg"
+          },
+          "released_at": "2013-09-17",
+          "requirements": {}
+        },
+        {
+          "platform": {
+            "id": 14,
+            "name": "Xbox 360",
+            "slug": "xbox360",
+            "image": null,
+            "year_end": null,
+            "year_start": null,
+            "games_count": 2806,
+            "image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+          },
+          "released_at": "2013-09-17",
+          "requirements": {}
+        },
+        {
+          "platform": {
+            "id": 1,
+            "name": "Xbox One",
+            "slug": "xbox-one",
+            "image": null,
+            "year_end": null,
+            "year_start": null,
+            "games_count": 5641,
+            "image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+          },
+          "released_at": "2013-09-17",
+          "requirements": {}
+        }
+      ],
+      "stores": [
+        {
+          "id": 290375,
+          "url": "",
+          "store": {
+            "id": 3,
+            "name": "PlayStation Store",
+            "slug": "playstation-store",
+            "domain": "store.playstation.com",
+            "games_count": 7963,
+            "image_background": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg"
+          }
+        },
+        {
+          "id": 438095,
+          "url": "",
+          "store": {
+            "id": 11,
+            "name": "Epic Games",
+            "slug": "epic-games",
+            "domain": "epicgames.com",
+            "games_count": 1345,
+            "image_background": "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg"
+          }
+        },
+        {
+          "id": 290376,
+          "url": "",
+          "store": {
+            "id": 1,
+            "name": "Steam",
+            "slug": "steam",
+            "domain": "store.steampowered.com",
+            "games_count": 98563,
+            "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+          }
+        },
+        {
+          "id": 290377,
+          "url": "",
+          "store": {
+            "id": 7,
+            "name": "Xbox 360 Store",
+            "slug": "xbox360",
+            "domain": "marketplace.xbox.com",
+            "games_count": 1916,
+            "image_background": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg"
+          }
+        },
+        {
+          "id": 290378,
+          "url": "",
+          "store": {
+            "id": 2,
+            "name": "Xbox Store",
+            "slug": "xbox-store",
+            "domain": "microsoft.com",
+            "games_count": 4868,
+            "image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+          }
+        }
+      ],
+      "developers": [
+        {
+          "id": 3524,
+          "name": "Rockstar North",
+          "slug": "rockstar-north",
+          "games_count": 28,
+          "image_background": "https://media.rawg.io/media/screenshots/ff8/ff85fc7832ddca3c39f3539389793ee6.jpg"
+        },
+        {
+          "id": 10,
+          "name": "Rockstar Games",
+          "slug": "rockstar-games",
+          "games_count": 25,
+          "image_background": "https://media.rawg.io/media/screenshots/d74/d748bb016b1c26935cb7c2d0f2a7ba40.jpg"
+        }
+      ],
+      "genres": [
+        {
+          "id": 4,
+          "name": "Action",
+          "slug": "action",
+          "games_count": 182068,
+          "image_background": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg"
+        }
+      ],
+      "tags": [
+        {
+          "id": 31,
+          "name": "Singleplayer",
+          "slug": "singleplayer",
+          "language": "eng",
+          "games_count": 227300,
+          "image_background": "https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg"
+        },
+        {
+          "id": 40847,
+          "name": "Steam Achievements",
+          "slug": "steam-achievements",
+          "language": "eng",
+          "games_count": 39573,
+          "image_background": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Multiplayer",
+          "slug": "multiplayer",
+          "language": "eng",
+          "games_count": 38617,
+          "image_background": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg"
+        },
+        {
+          "id": 40836,
+          "name": "Full controller support",
+          "slug": "full-controller-support",
+          "language": "eng",
+          "games_count": 18795,
+          "image_background": "https://media.rawg.io/media/games/8e4/8e4de3f54ac659e08a7ba6a2b731682a.jpg"
+        },
+        {
+          "id": 13,
+          "name": "Atmospheric",
+          "slug": "atmospheric",
+          "language": "eng",
+          "games_count": 34121,
+          "image_background": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg"
+        },
+        {
+          "id": 42,
+          "name": "Great Soundtrack",
+          "slug": "great-soundtrack",
+          "language": "eng",
+          "games_count": 3406,
+          "image_background": "https://media.rawg.io/media/games/8a0/8a02f84a5916ede2f923b88d5f8217ba.jpg"
+        },
+        {
+          "id": 24,
+          "name": "RPG",
+          "slug": "rpg",
+          "language": "eng",
+          "games_count": 21772,
+          "image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
+        },
+        {
+          "id": 18,
+          "name": "Co-op",
+          "slug": "co-op",
+          "language": "eng",
+          "games_count": 11956,
+          "image_background": "https://media.rawg.io/media/games/c6b/c6bfece1daf8d06bc0a60632ac78e5bf.jpg"
+        },
+        {
+          "id": 36,
+          "name": "Open World",
+          "slug": "open-world",
+          "language": "eng",
+          "games_count": 7733,
+          "image_background": "https://media.rawg.io/media/games/16b/16b1b7b36e2042d1128d5a3e852b3b2f.jpg"
+        },
+        {
+          "id": 411,
+          "name": "cooperative",
+          "slug": "cooperative",
+          "language": "eng",
+          "games_count": 5181,
+          "image_background": "https://media.rawg.io/media/games/0bd/0bd5646a3d8ee0ac3314bced91ea306d.jpg"
+        },
+        {
+          "id": 8,
+          "name": "First-Person",
+          "slug": "first-person",
+          "language": "eng",
+          "games_count": 32415,
+          "image_background": "https://media.rawg.io/media/games/00d/00d374f12a3ab5f96c500a2cfa901e15.jpg"
+        },
+        {
+          "id": 149,
+          "name": "Third Person",
+          "slug": "third-person",
+          "language": "eng",
+          "games_count": 11948,
+          "image_background": "https://media.rawg.io/media/games/da1/da1b267764d77221f07a4386b6548e5a.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Funny",
+          "slug": "funny",
+          "language": "eng",
+          "games_count": 25381,
+          "image_background": "https://media.rawg.io/media/games/e3d/e3ddc524c6292a435d01d97cc5f42ea7.jpg"
+        },
+        {
+          "id": 37,
+          "name": "Sandbox",
+          "slug": "sandbox",
+          "language": "eng",
+          "games_count": 7134,
+          "image_background": "https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg"
+        },
+        {
+          "id": 123,
+          "name": "Comedy",
+          "slug": "comedy",
+          "language": "eng",
+          "games_count": 12776,
+          "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+        },
+        {
+          "id": 150,
+          "name": "Third-Person Shooter",
+          "slug": "third-person-shooter",
+          "language": "eng",
+          "games_count": 3524,
+          "image_background": "https://media.rawg.io/media/games/16b/16b1b7b36e2042d1128d5a3e852b3b2f.jpg"
+        },
+        {
+          "id": 62,
+          "name": "Moddable",
+          "slug": "moddable",
+          "language": "eng",
+          "games_count": 952,
+          "image_background": "https://media.rawg.io/media/games/62c/62c7c8b28a27b83680b22fb9d33fc619.jpg"
+        },
+        {
+          "id": 144,
+          "name": "Crime",
+          "slug": "crime",
+          "language": "eng",
+          "games_count": 2894,
+          "image_background": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
+        },
+        {
+          "id": 62349,
+          "name": "vr mod",
+          "slug": "vr-mod",
+          "language": "eng",
+          "games_count": 17,
+          "image_background": "https://media.rawg.io/media/screenshots/1bb/1bb3f78f0fe43b5d5ca2f3da5b638840.jpg"
+        }
+      ],
+      "publishers": [
+        {
+          "id": 2155,
+          "name": "Rockstar Games",
+          "slug": "rockstar-games",
+          "games_count": 79,
+          "image_background": "https://media.rawg.io/media/games/682/682973f711e9ea6fcf11f71cbb39cdd5.jpeg"
+        }
+      ],
+      "esrb_rating": {
+        "id": 4,
+        "name": "Mature",
+        "slug": "mature"
+      },
+      "clip": null,
+      "description_raw": "Rockstar Games went bigger, since their previous installment of the series. You get the complicated and realistic world-building from Liberty City of GTA4 in the setting of lively and diverse Los Santos, from an old fan favorite GTA San Andreas. 561 different vehicles (including every transport you can operate) and the amount is rising with every update. \nSimultaneous storytelling from three unique perspectives: \nFollow Michael, ex-criminal living his life of leisure away from the past, Franklin, a kid that seeks the better future, and Trevor, the exact past Michael is trying to run away from. \nGTA Online will provide a lot of additional challenge even for the experienced players, coming fresh from the story mode. Now you will have other players around that can help you just as likely as ruin your mission. Every GTA mechanic up to date can be experienced by players through the unique customizable character, and community content paired with the leveling system tends to keep everyone busy and engaged.\n\nEspañol\nRockstar Games se hizo más grande desde su entrega anterior de la serie. Obtienes la construcción del mundo complicada y realista de Liberty City de GTA4 en el escenario de Los Santos, un viejo favorito de los fans, GTA San Andreas. 561 vehículos diferentes (incluidos todos los transportes que puede operar) y la cantidad aumenta con cada actualización.\nNarración simultánea desde tres perspectivas únicas:\nSigue a Michael, ex-criminal que vive su vida de ocio lejos del pasado, Franklin, un niño que busca un futuro mejor, y Trevor, el pasado exacto del que Michael está tratando de huir.\nGTA Online proporcionará muchos desafíos adicionales incluso para los jugadores experimentados, recién llegados del modo historia. Ahora tendrás otros jugadores cerca que pueden ayudarte con la misma probabilidad que arruinar tu misión. Los jugadores pueden experimentar todas las mecánicas de GTA actualizadas a través del personaje personalizable único, y el contenido de la comunidad combinado con el sistema de nivelación tiende a mantener a todos ocupados y comprometidos.",
+      "price": 52
+    },
+    {
+      "id": 4200,
+      "slug": "portal-2",
+      "name": "Portal 2",
+      "name_original": "Portal 2",
+      "description": "<p>Portal 2 is a first-person puzzle game developed by Valve Corporation and released on April 19, 2011 on Steam, PS3 and Xbox 360. It was published by Valve Corporation in digital form and by Electronic Arts in physical form. </p>\n<p>Its plot directly follows the first game&#39;s, taking place in the Half-Life universe. You play as Chell, a test subject in a research facility formerly ran by the company Aperture Science, but taken over by an evil AI that turned upon its creators, GladOS. After defeating GladOS at the end of the first game but failing to escape the facility, Chell is woken up from a stasis chamber by an AI personality core, Wheatley, as the unkempt complex is falling apart. As the two attempt to navigate through the ruins and escape, they stumble upon GladOS, and accidentally re-activate her...</p>\n<p>Portal 2&#39;s core mechanics are very similar to the first game&#39;s ; the player must make their way through several test chambers which involve puzzles. For this purpose, they possess a Portal Gun, a weapon capable of creating teleportation portals on white surfaces. This seemingly simple mechanic and its subtleties coupled with the many different puzzle elements that can appear in puzzles allows the game to be easy to start playing, yet still feature profound gameplay. The sequel adds several new puzzle elements, such as gel that can render surfaces bouncy or allow you to accelerate when running on them.</p>\n<p>The game is often praised for its gameplay, its memorable dialogue and writing and its aesthetic. Both games in the series are responsible for inspiring most puzzle games succeeding them, particularly first-person puzzle games. The series, its characters and even its items such as the portal gun and the companion cube have become a cultural icon within gaming communities.</p>\n<p>Portal 2 also features a co-op mode where two players take on the roles of robots being led through tests by GladOS, as well as an in-depth level editor.</p>",
+      "metacritic": 95,
+      "metacritic_platforms": [],
+      "released": "2011-04-18",
+      "tba": false,
+      "updated": "2024-09-12T12:53:33",
+      "background_image": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg",
+      "background_image_additional": "https://media.rawg.io/media/screenshots/9a9/9a995e75aba0f9ce01a341f506fc4e13.jpg",
+      "website": "http://www.thinkwithportals.com/",
+      "rating": 4.6,
+      "rating_top": 5,
+      "ratings": [
+        {
+          "id": 5,
+          "title": "exceptional",
+          "count": 4017,
+          "percent": 69.9
+        },
+        {
+          "id": 4,
+          "title": "recommended",
+          "count": 1438,
+          "percent": 25.02
+        },
+        {
+          "id": 3,
+          "title": "meh",
+          "count": 162,
+          "percent": 2.82
+        },
+        {
+          "id": 1,
+          "title": "skip",
+          "count": 130,
+          "percent": 2.26
+        }
+      ],
+      "reactions": {
+        "1": 30,
+        "3": 15,
+        "4": 20,
+        "5": 3,
+        "6": 1,
+        "7": 3,
+        "8": 11,
+        "9": 2,
+        "10": 20,
+        "11": 19,
+        "12": 12,
+        "16": 2,
+        "19": 1,
+        "21": 1
+      },
+      "added": 19527,
+      "added_by_status": {
+        "yet": 626,
+        "owned": 12247,
+        "beaten": 5524,
+        "toplay": 380,
+        "dropped": 596,
+        "playing": 154
+      },
+      "playtime": 11,
+      "screenshots_count": 24,
+      "movies_count": 0,
+      "creators_count": 40,
+      "achievements_count": 152,
+      "parent_achievements_count": 52,
+      "reddit_url": "https://www.reddit.com/r/Portal/",
+      "reddit_name": "",
+      "reddit_description": "",
+      "reddit_logo": "",
+      "reddit_count": 6942,
+      "twitch_count": 106,
+      "youtube_count": 1000000,
+      "reviews_text_count": 52,
+      "ratings_count": 5695,
+      "suggestions_count": 553,
+      "alternative_names": [],
+      "metacritic_url": "",
+      "parents_count": 0,
+      "additions_count": 2,
+      "game_series_count": 3,
+      "user_game": null,
+      "reviews_count": 5747,
+      "saturated_color": "0f0f0f",
+      "dominant_color": "0f0f0f",
+      "parent_platforms": [
+        {
+          "platform": {
+            "id": 1,
+            "name": "PC",
+            "slug": "pc"
+          }
+        },
+        {
+          "platform": {
+            "id": 2,
+            "name": "PlayStation",
+            "slug": "playstation"
+          }
+        },
+        {
+          "platform": {
+            "id": 3,
+            "name": "Xbox",
+            "slug": "xbox"
+          }
+        },
+        {
+          "platform": {
+            "id": 5,
+            "name": "Apple Macintosh",
+            "slug": "mac"
+          }
+        },
+        {
+          "platform": {
+            "id": 6,
+            "name": "Linux",
+            "slug": "linux"
+          }
+        }
+      ],
+      "platforms": [
+        {
+          "platform": {
+            "id": 16,
+            "name": "PlayStation 3",
+            "slug": "playstation3",
+            "image": null,
+            "year_end": null,
+            "year_start": null,
+            "games_count": 3166,
+            "image_background": "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg"
+          },
+          "released_at": "2011-04-18",
+          "requirements": {}
+        },
+        {
+          "platform": {
+            "id": 4,
+            "name": "PC",
+            "slug": "pc",
+            "image": null,
+            "year_end": null,
+            "year_start": null,
+            "games_count": 535509,
+            "image_background": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg"
+          },
+          "released_at": "2011-04-18",
+          "requirements": {}
+        },
+        {
+          "platform": {
+            "id": 14,
+            "name": "Xbox 360",
+            "slug": "xbox360",
+            "image": null,
+            "year_end": null,
+            "year_start": null,
+            "games_count": 2806,
+            "image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+          },
+          "released_at": "2011-04-18",
+          "requirements": {}
+        },
+        {
+          "platform": {
+            "id": 6,
+            "name": "Linux",
+            "slug": "linux",
+            "image": null,
+            "year_end": null,
+            "year_start": null,
+            "games_count": 77522,
+            "image_background": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg"
+          },
+          "released_at": "2011-04-18",
+          "requirements": {}
+        },
+        {
+          "platform": {
+            "id": 5,
+            "name": "macOS",
+            "slug": "macos",
+            "image": null,
+            "year_end": null,
+            "year_start": null,
+            "games_count": 104636,
+            "image_background": "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg"
+          },
+          "released_at": "2011-04-18",
+          "requirements": {}
+        },
+        {
+          "platform": {
+            "id": 1,
+            "name": "Xbox One",
+            "slug": "xbox-one",
+            "image": null,
+            "year_end": null,
+            "year_start": null,
+            "games_count": 5641,
+            "image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+          },
+          "released_at": "2011-04-18",
+          "requirements": {}
+        }
+      ],
+      "stores": [
+        {
+          "id": 465889,
+          "url": "",
+          "store": {
+            "id": 2,
+            "name": "Xbox Store",
+            "slug": "xbox-store",
+            "domain": "microsoft.com",
+            "games_count": 4868,
+            "image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+          }
+        },
+        {
+          "id": 13134,
+          "url": "",
+          "store": {
+            "id": 1,
+            "name": "Steam",
+            "slug": "steam",
+            "domain": "store.steampowered.com",
+            "games_count": 98563,
+            "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+          }
+        },
+        {
+          "id": 4526,
+          "url": "",
+          "store": {
+            "id": 3,
+            "name": "PlayStation Store",
+            "slug": "playstation-store",
+            "domain": "store.playstation.com",
+            "games_count": 7963,
+            "image_background": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg"
+          }
+        },
+        {
+          "id": 33916,
+          "url": "",
+          "store": {
+            "id": 7,
+            "name": "Xbox 360 Store",
+            "slug": "xbox360",
+            "domain": "marketplace.xbox.com",
+            "games_count": 1916,
+            "image_background": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg"
+          }
+        }
+      ],
+      "developers": [
+        {
+          "id": 1612,
+          "name": "Valve Software",
+          "slug": "valve-software",
+          "games_count": 43,
+          "image_background": "https://media.rawg.io/media/screenshots/d33/d331d95adf10b44ee3678129020bc31f.jpg"
+        }
+      ],
+      "genres": [
+        {
+          "id": 2,
+          "name": "Shooter",
+          "slug": "shooter",
+          "games_count": 59500,
+          "image_background": "https://media.rawg.io/media/games/e6d/e6de699bd788497f4b52e2f41f9698f2.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Puzzle",
+          "slug": "puzzle",
+          "games_count": 97298,
+          "image_background": "https://media.rawg.io/media/games/198/1988a337305e008b41d7f536ce9b73f6.jpg"
+        }
+      ],
+      "tags": [
+        {
+          "id": 31,
+          "name": "Singleplayer",
+          "slug": "singleplayer",
+          "language": "eng",
+          "games_count": 227300,
+          "image_background": "https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg"
+        },
+        {
+          "id": 40847,
+          "name": "Steam Achievements",
+          "slug": "steam-achievements",
+          "language": "eng",
+          "games_count": 39573,
+          "image_background": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Multiplayer",
+          "slug": "multiplayer",
+          "language": "eng",
+          "games_count": 38617,
+          "image_background": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg"
+        },
+        {
+          "id": 40836,
+          "name": "Full controller support",
+          "slug": "full-controller-support",
+          "language": "eng",
+          "games_count": 18795,
+          "image_background": "https://media.rawg.io/media/games/8e4/8e4de3f54ac659e08a7ba6a2b731682a.jpg"
+        },
+        {
+          "id": 40849,
+          "name": "Steam Cloud",
+          "slug": "steam-cloud",
+          "language": "eng",
+          "games_count": 18807,
+          "image_background": "https://media.rawg.io/media/games/be0/be01c3d7d8795a45615da139322ca080.jpg"
+        },
+        {
+          "id": 13,
+          "name": "Atmospheric",
+          "slug": "atmospheric",
+          "language": "eng",
+          "games_count": 34121,
+          "image_background": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg"
+        },
+        {
+          "id": 7808,
+          "name": "steam-trading-cards",
+          "slug": "steam-trading-cards",
+          "language": "eng",
+          "games_count": 7569,
+          "image_background": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg"
+        },
+        {
+          "id": 18,
+          "name": "Co-op",
+          "slug": "co-op",
+          "language": "eng",
+          "games_count": 11956,
+          "image_background": "https://media.rawg.io/media/games/c6b/c6bfece1daf8d06bc0a60632ac78e5bf.jpg"
+        },
+        {
+          "id": 118,
+          "name": "Story Rich",
+          "slug": "story-rich",
+          "language": "eng",
+          "games_count": 22333,
+          "image_background": "https://media.rawg.io/media/games/da1/da1b267764d77221f07a4386b6548e5a.jpg"
+        },
+        {
+          "id": 411,
+          "name": "cooperative",
+          "slug": "cooperative",
+          "language": "eng",
+          "games_count": 5181,
+          "image_background": "https://media.rawg.io/media/games/0bd/0bd5646a3d8ee0ac3314bced91ea306d.jpg"
+        },
+        {
+          "id": 8,
+          "name": "First-Person",
+          "slug": "first-person",
+          "language": "eng",
+          "games_count": 32415,
+          "image_background": "https://media.rawg.io/media/games/00d/00d374f12a3ab5f96c500a2cfa901e15.jpg"
+        },
+        {
+          "id": 32,
+          "name": "Sci-fi",
+          "slug": "sci-fi",
+          "language": "eng",
+          "games_count": 19556,
+          "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+        },
+        {
+          "id": 30,
+          "name": "FPS",
+          "slug": "fps",
+          "language": "eng",
+          "games_count": 13476,
+          "image_background": "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg"
+        },
+        {
+          "id": 9,
+          "name": "Online Co-Op",
+          "slug": "online-co-op",
+          "language": "eng",
+          "games_count": 5867,
+          "image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Funny",
+          "slug": "funny",
+          "language": "eng",
+          "games_count": 25381,
+          "image_background": "https://media.rawg.io/media/games/e3d/e3ddc524c6292a435d01d97cc5f42ea7.jpg"
+        },
+        {
+          "id": 189,
+          "name": "Female Protagonist",
+          "slug": "female-protagonist",
+          "language": "eng",
+          "games_count": 12850,
+          "image_background": "https://media.rawg.io/media/games/d69/d69810315bd7e226ea2d21f9156af629.jpg"
+        },
+        {
+          "id": 123,
+          "name": "Comedy",
+          "slug": "comedy",
+          "language": "eng",
+          "games_count": 12776,
+          "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+        },
+        {
+          "id": 75,
+          "name": "Local Co-Op",
+          "slug": "local-co-op",
+          "language": "eng",
+          "games_count": 5499,
+          "image_background": "https://media.rawg.io/media/games/0fd/0fd84d36596a83ef2e5a35f63a072218.jpg"
+        },
+        {
+          "id": 11669,
+          "name": "stats",
+          "slug": "stats",
+          "language": "eng",
+          "games_count": 5079,
+          "image_background": "https://media.rawg.io/media/games/8cc/8cce7c0e99dcc43d66c8efd42f9d03e3.jpg"
+        },
+        {
+          "id": 40852,
+          "name": "Steam Workshop",
+          "slug": "steam-workshop",
+          "language": "eng",
+          "games_count": 1533,
+          "image_background": "https://media.rawg.io/media/screenshots/c97/c97b943741f5fbc936fe054d9d58851d.jpg"
+        },
+        {
+          "id": 25,
+          "name": "Space",
+          "slug": "space",
+          "language": "eng",
+          "games_count": 43032,
+          "image_background": "https://media.rawg.io/media/games/3cf/3cff89996570cf29a10eb9cd967dcf73.jpg"
+        },
+        {
+          "id": 40838,
+          "name": "Includes level editor",
+          "slug": "includes-level-editor",
+          "language": "eng",
+          "games_count": 1917,
+          "image_background": "https://media.rawg.io/media/games/1f5/1f5ddf7199f2778ff83663b93b5cb330.jpg"
+        },
+        {
+          "id": 40833,
+          "name": "Captions available",
+          "slug": "captions-available",
+          "language": "eng",
+          "games_count": 1361,
+          "image_background": "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg"
+        },
+        {
+          "id": 40834,
+          "name": "Commentary available",
+          "slug": "commentary-available",
+          "language": "eng",
+          "games_count": 277,
+          "image_background": "https://media.rawg.io/media/games/be0/be01c3d7d8795a45615da139322ca080.jpg"
+        },
+        {
+          "id": 87,
+          "name": "Science",
+          "slug": "science",
+          "language": "eng",
+          "games_count": 1769,
+          "image_background": "https://media.rawg.io/media/screenshots/0b4/0b442f231e0594a22c79981a7d1ab785.jpg"
+        }
+      ],
+      "publishers": [
+        {
+          "id": 354,
+          "name": "Electronic Arts",
+          "slug": "electronic-arts",
+          "games_count": 1325,
+          "image_background": "https://media.rawg.io/media/games/8e4/8e4de3f54ac659e08a7ba6a2b731682a.jpg"
+        },
+        {
+          "id": 3399,
+          "name": "Valve",
+          "slug": "valve",
+          "games_count": 47,
+          "image_background": "https://media.rawg.io/media/games/d58/d588947d4286e7b5e0e12e1bea7d9844.jpg"
+        }
+      ],
+      "esrb_rating": {
+        "id": 2,
+        "name": "Everyone 10+",
+        "slug": "everyone-10-plus"
+      },
+      "clip": null,
+      "description_raw": "Portal 2 is a first-person puzzle game developed by Valve Corporation and released on April 19, 2011 on Steam, PS3 and Xbox 360. It was published by Valve Corporation in digital form and by Electronic Arts in physical form. \n\nIts plot directly follows the first game's, taking place in the Half-Life universe. You play as Chell, a test subject in a research facility formerly ran by the company Aperture Science, but taken over by an evil AI that turned upon its creators, GladOS. After defeating GladOS at the end of the first game but failing to escape the facility, Chell is woken up from a stasis chamber by an AI personality core, Wheatley, as the unkempt complex is falling apart. As the two attempt to navigate through the ruins and escape, they stumble upon GladOS, and accidentally re-activate her...\n\nPortal 2's core mechanics are very similar to the first game's ; the player must make their way through several test chambers which involve puzzles. For this purpose, they possess a Portal Gun, a weapon capable of creating teleportation portals on white surfaces. This seemingly simple mechanic and its subtleties coupled with the many different puzzle elements that can appear in puzzles allows the game to be easy to start playing, yet still feature profound gameplay. The sequel adds several new puzzle elements, such as gel that can render surfaces bouncy or allow you to accelerate when running on them.\n\nThe game is often praised for its gameplay, its memorable dialogue and writing and its aesthetic. Both games in the series are responsible for inspiring most puzzle games succeeding them, particularly first-person puzzle games. The series, its characters and even its items such as the portal gun and the companion cube have become a cultural icon within gaming communities.\n\nPortal 2 also features a co-op mode where two players take on the roles of robots being led through tests by GladOS, as well as an in-depth level editor.",
+      "price": 63
+    },
+    {
+      "id": 58175,
+      "slug": "god-of-war-2",
+      "name": "God of War (2018)",
+      "name_original": "God of War (2018)",
+      "description": "<p>It is a new beginning for Kratos. Living as a man outside the shadow of the gods, he ventures into the brutal Norse wilds with his son Atreus, fighting to fulfill a deeply personal quest. </p>\n<p>His vengeance against the Gods of Olympus years behind him, Kratos now lives as a man in the realm of Norse Gods and monsters. It is in this harsh, unforgiving world that he must fight to survive… And teach his son to do the same. This startling reimagining of God of War deconstructs the core elements that defined the series—satisfying combat; breathtaking scale; and a powerful narrative—and fuses them anew. </p>\n<p>Kratos is a father again. As mentor and protector to Atreus, a son determined to earn his respect, he is forced to deal with and control the rage that has long defined him while out in a very dangerous world with his son. </p>\n<p>From the marble and columns of ornate Olympus to the gritty forests, mountains, and caves of Pre-Viking Norse lore, this is a distinctly new realm with its own pantheon of creatures, monsters, and gods. With an added emphasis on discovery and exploration, the world will draw players in to explore every inch of God of War’s breathtakingly threatening landscape—by far the largest in the franchise. </p>\n<p>With an over the shoulder free camera that brings the player closer to the action than ever before, fights in God of War mirror the pantheon of Norse creatures Kratos will face: grand, gritty, and grueling. A new main weapon and new abilities retain the defining spirit of God of War while presenting a vision of violent conflict that forges new ground in the genre</p>",
+      "metacritic": 94,
+      "metacritic_platforms": [
+        {
+          "metascore": 94,
+          "url": "https://www.metacritic.com/game/playstation-2/god-of-war",
+          "platform": {
+            "platform": 15,
+            "name": "PlayStation 2",
+            "slug": "playstation2"
+          }
+        },
+        {
+          "metascore": 93,
+          "url": "https://www.metacritic.com/game/pc/god-of-war",
+          "platform": {
+            "platform": 4,
+            "name": "PC",
+            "slug": "pc"
+          }
+        },
+        {
+          "metascore": 94,
+          "url": "https://www.metacritic.com/game/playstation-4/god-of-war",
+          "platform": {
+            "platform": 18,
+            "name": "PlayStation 4",
+            "slug": "playstation4"
+          }
+        }
+      ],
+      "released": "2018-04-20",
+      "tba": false,
+      "updated": "2024-09-12T15:35:12",
+      "background_image": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg",
+      "background_image_additional": "https://media.rawg.io/media/screenshots/e2e/e2e16b63691fab32fa20d99f3e6895a0.jpeg",
+      "website": "https://godofwar.playstation.com/",
+      "rating": 4.56,
+      "rating_top": 5,
+      "ratings": [
+        {
+          "id": 5,
+          "title": "exceptional",
+          "count": 3448,
+          "percent": 70.83
+        },
+        {
+          "id": 4,
+          "title": "recommended",
+          "count": 1022,
+          "percent": 20.99
+        },
+        {
+          "id": 3,
+          "title": "meh",
+          "count": 238,
+          "percent": 4.89
+        },
+        {
+          "id": 1,
+          "title": "skip",
+          "count": 160,
+          "percent": 3.29
+        }
+      ],
+      "reactions": {
+        "1": 41,
+        "2": 6,
+        "3": 21,
+        "4": 6,
+        "5": 3,
+        "6": 11,
+        "7": 8,
+        "9": 1,
+        "10": 21,
+        "11": 5,
+        "12": 6,
+        "14": 3,
+        "15": 4,
+        "16": 4,
+        "18": 1,
+        "19": 1,
+        "21": 3
+      },
+      "added": 13592,
+      "added_by_status": {
+        "yet": 679,
+        "owned": 6968,
+        "beaten": 4022,
+        "toplay": 1161,
+        "dropped": 349,
+        "playing": 413
+      },
+      "playtime": 14,
+      "screenshots_count": 11,
+      "movies_count": 0,
+      "creators_count": 13,
+      "achievements_count": 184,
+      "parent_achievements_count": 23,
+      "reddit_url": "https://www.reddit.com/r/GodofWar/",
+      "reddit_name": "",
+      "reddit_description": "",
+      "reddit_logo": "",
+      "reddit_count": 10395,
+      "twitch_count": 0,
+      "youtube_count": 1000000,
+      "reviews_text_count": 99,
+      "ratings_count": 4769,
+      "suggestions_count": 596,
+      "alternative_names": [
+        "GoW"
+      ],
+      "metacritic_url": "https://www.metacritic.com/game/playstation-4/god-of-war",
+      "parents_count": 0,
+      "additions_count": 1,
+      "game_series_count": 12,
+      "user_game": null,
+      "reviews_count": 4868,
+      "saturated_color": "0f0f0f",
+      "dominant_color": "0f0f0f",
+      "parent_platforms": [
+        {
+          "platform": {
+            "id": 1,
+            "name": "PC",
+            "slug": "pc"
+          }
+        },
+        {
+          "platform": {
+            "id": 2,
+            "name": "PlayStation",
+            "slug": "playstation"
+          }
+        }
+      ],
+      "platforms": [
+        {
+          "platform": {
+            "id": 4,
+            "name": "PC",
+            "slug": "pc",
+            "image": null,
+            "year_end": null,
+            "year_start": null,
+            "games_count": 535509,
+            "image_background": "https://media.rawg.io/media/games/bc0/bc06a29ceac58652b684deefe7d56099.jpg"
+          },
+          "released_at": "2018-04-20",
+          "requirements": {
+            "minimum": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows 10 64-bit\nProcessor: Intel i5-2500k (4 core 3.3 GHz) or AMD Ryzen 3 1200 (4 core 3.1 GHz)\nMemory: 8 GB RAM\nGraphics: NVIDIA GTX 960 (4 GB) or AMD R9 290X (4 GB)\nDirectX: Version 11\nStorage: 70 GB available space\nAdditional Notes: DirectX feature level 11_1 required",
+            "recommended": "Recommended:\nRequires a 64-bit processor and operating system\nOS: Windows 10 64-bit\nProcessor: Intel i5-6600k (4 core 3.5 GHz) or AMD Ryzen 5 2400 G (4 core 3.6 GHz)\nMemory: 8 GB RAM\nGraphics: NVIDIA GTX 1060 (6 GB) or AMD RX 570 (4 GB)\nDirectX: Version 11\nStorage: 70 GB available space\nAdditional Notes: DirectX feature level 11_1 required"
+          }
+        },
+        {
+          "platform": {
+            "id": 18,
+            "name": "PlayStation 4",
+            "slug": "playstation4",
+            "image": null,
+            "year_end": null,
+            "year_start": null,
+            "games_count": 6829,
+            "image_background": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg"
+          },
+          "released_at": "2018-04-20",
+          "requirements": {}
+        }
+      ],
+      "stores": [
+        {
+          "id": 971852,
+          "url": "",
+          "store": {
+            "id": 5,
+            "name": "GOG",
+            "slug": "gog",
+            "domain": "gog.com",
+            "games_count": 6304,
+            "image_background": "https://media.rawg.io/media/games/8d6/8d69eb6c32ed6acfd75f82d532144993.jpg"
+          }
+        },
+        {
+          "id": 46917,
+          "url": "",
+          "store": {
+            "id": 3,
+            "name": "PlayStation Store",
+            "slug": "playstation-store",
+            "domain": "store.playstation.com",
+            "games_count": 7963,
+            "image_background": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg"
+          }
+        },
+        {
+          "id": 677451,
+          "url": "",
+          "store": {
+            "id": 1,
+            "name": "Steam",
+            "slug": "steam",
+            "domain": "store.steampowered.com",
+            "games_count": 98563,
+            "image_background": "https://media.rawg.io/media/games/587/587588c64afbff80e6f444eb2e46f9da.jpg"
+          }
+        },
+        {
+          "id": 677452,
+          "url": "",
+          "store": {
+            "id": 11,
+            "name": "Epic Games",
+            "slug": "epic-games",
+            "domain": "epicgames.com",
+            "games_count": 1345,
+            "image_background": "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg"
+          }
+        }
+      ],
+      "developers": [
+        {
+          "id": 14278,
+          "name": "Santa Monica Studio",
+          "slug": "santa-monica-studio",
+          "games_count": 2,
+          "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+        }
+      ],
+      "genres": [
+        {
+          "id": 4,
+          "name": "Action",
+          "slug": "action",
+          "games_count": 182068,
+          "image_background": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg"
+        }
+      ],
+      "tags": [
+        {
+          "id": 31,
+          "name": "Singleplayer",
+          "slug": "singleplayer",
+          "language": "eng",
+          "games_count": 227300,
+          "image_background": "https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg"
+        },
+        {
+          "id": 40847,
+          "name": "Steam Achievements",
+          "slug": "steam-achievements",
+          "language": "eng",
+          "games_count": 39573,
+          "image_background": "https://media.rawg.io/media/games/7cf/7cfc9220b401b7a300e409e539c9afd5.jpg"
+        },
+        {
+          "id": 40836,
+          "name": "Full controller support",
+          "slug": "full-controller-support",
+          "language": "eng",
+          "games_count": 18795,
+          "image_background": "https://media.rawg.io/media/games/8e4/8e4de3f54ac659e08a7ba6a2b731682a.jpg"
+        },
+        {
+          "id": 40849,
+          "name": "Steam Cloud",
+          "slug": "steam-cloud",
+          "language": "eng",
+          "games_count": 18807,
+          "image_background": "https://media.rawg.io/media/games/be0/be01c3d7d8795a45615da139322ca080.jpg"
+        },
+        {
+          "id": 13,
+          "name": "Atmospheric",
+          "slug": "atmospheric",
+          "language": "eng",
+          "games_count": 34121,
+          "image_background": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg"
+        },
+        {
+          "id": 24,
+          "name": "RPG",
+          "slug": "rpg",
+          "language": "eng",
+          "games_count": 21772,
+          "image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
+        },
+        {
+          "id": 118,
+          "name": "Story Rich",
+          "slug": "story-rich",
+          "language": "eng",
+          "games_count": 22333,
+          "image_background": "https://media.rawg.io/media/games/da1/da1b267764d77221f07a4386b6548e5a.jpg"
+        },
+        {
+          "id": 149,
+          "name": "Third Person",
+          "slug": "third-person",
+          "language": "eng",
+          "games_count": 11948,
+          "image_background": "https://media.rawg.io/media/games/da1/da1b267764d77221f07a4386b6548e5a.jpg"
+        },
+        {
+          "id": 64,
+          "name": "Fantasy",
+          "slug": "fantasy",
+          "language": "eng",
+          "games_count": 28499,
+          "image_background": "https://media.rawg.io/media/games/33d/33df5a032898b8ab7e3773c7a5f1d336.jpg"
+        },
+        {
+          "id": 26,
+          "name": "Gore",
+          "slug": "gore",
+          "language": "eng",
+          "games_count": 5837,
+          "image_background": "https://media.rawg.io/media/games/234/23410661770ae13eac11066980834367.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Exploration",
+          "slug": "exploration",
+          "language": "eng",
+          "games_count": 23866,
+          "image_background": "https://media.rawg.io/media/games/baf/baf9905270314e07e6850cffdb51df41.jpg"
+        },
+        {
+          "id": 34,
+          "name": "Violent",
+          "slug": "violent",
+          "language": "eng",
+          "games_count": 6829,
+          "image_background": "https://media.rawg.io/media/games/5bf/5bf88a28de96321c86561a65ee48e6c2.jpg"
+        },
+        {
+          "id": 97,
+          "name": "Action RPG",
+          "slug": "action-rpg",
+          "language": "eng",
+          "games_count": 7165,
+          "image_background": "https://media.rawg.io/media/games/a6c/a6ccd34125c594abf1a9c9821b9a715d.jpg"
+        },
+        {
+          "id": 69,
+          "name": "Action-Adventure",
+          "slug": "action-adventure",
+          "language": "eng",
+          "games_count": 17104,
+          "image_background": "https://media.rawg.io/media/games/cee/cee577e2097a59b77193fe2bce94667d.jpg"
+        },
+        {
+          "id": 68,
+          "name": "Hack and Slash",
+          "slug": "hack-and-slash",
+          "language": "eng",
+          "games_count": 4362,
+          "image_background": "https://media.rawg.io/media/games/21a/21ad672cedee9b4378abb6c2d2e626ee.jpg"
+        },
+        {
+          "id": 37796,
+          "name": "exclusive",
+          "slug": "exclusive",
+          "language": "eng",
+          "games_count": 4496,
+          "image_background": "https://media.rawg.io/media/games/214/214b29aeff13a0ae6a70fc4426e85991.jpg"
+        },
+        {
+          "id": 125,
+          "name": "Crafting",
+          "slug": "crafting",
+          "language": "eng",
+          "games_count": 4342,
+          "image_background": "https://media.rawg.io/media/games/739/73990e3ec9f43a9e8ecafe207fa4f368.jpg"
+        },
+        {
+          "id": 571,
+          "name": "3D",
+          "slug": "3d",
+          "language": "eng",
+          "games_count": 84838,
+          "image_background": "https://media.rawg.io/media/screenshots/9d1/9d12fe709e4bc87166b1cdb2101fa91b.jpg"
+        },
+        {
+          "id": 1465,
+          "name": "combat",
+          "slug": "combat",
+          "language": "eng",
+          "games_count": 12748,
+          "image_background": "https://media.rawg.io/media/games/e1f/e1ffbeb1bac25b19749ad285ca29e158.jpg"
+        },
+        {
+          "id": 37797,
+          "name": "true exclusive",
+          "slug": "true-exclusive",
+          "language": "eng",
+          "games_count": 3983,
+          "image_background": "https://media.rawg.io/media/games/dfa/dfa0906773ebb8a50d15548ac5b8ee5e.jpg"
+        },
+        {
+          "id": 478,
+          "name": "3rd-Person Perspective",
+          "slug": "3rd-person-perspective",
+          "language": "eng",
+          "games_count": 87,
+          "image_background": "https://media.rawg.io/media/games/596/596a48ef3b62b63b4cc59633e28be903.jpg"
+        },
+        {
+          "id": 270,
+          "name": "Blood",
+          "slug": "blood",
+          "language": "eng",
+          "games_count": 2076,
+          "image_background": "https://media.rawg.io/media/games/297/297a51aa1f0999016d5a35e2e1d6d8ab.jpg"
+        },
+        {
+          "id": 171,
+          "name": "PvE",
+          "slug": "pve",
+          "language": "eng",
+          "games_count": 5341,
+          "image_background": "https://media.rawg.io/media/screenshots/a65/a65e9f01832997a4d913b3ea86319af4.jpg"
+        },
+        {
+          "id": 572,
+          "name": "Emotional",
+          "slug": "emotional",
+          "language": "eng",
+          "games_count": 3049,
+          "image_background": "https://media.rawg.io/media/screenshots/750/75092895cb37edc24b83bebf1ebbf4e7.jpg"
+        },
+        {
+          "id": 580,
+          "name": "Souls-like",
+          "slug": "souls-like",
+          "language": "eng",
+          "games_count": 1443,
+          "image_background": "https://media.rawg.io/media/games/396/3963e0df75c22d5995368ec43dacc19e.jpg"
+        },
+        {
+          "id": 108,
+          "name": "Mythology",
+          "slug": "mythology",
+          "language": "eng",
+          "games_count": 2056,
+          "image_background": "https://media.rawg.io/media/games/7af/7afb1ab50d1d6ef55ece4ab804f505ea.jpg"
+        },
+        {
+          "id": 43374,
+          "name": "Remote Play on TV",
+          "slug": "remote-play-on-tv",
+          "language": "eng",
+          "games_count": 472,
+          "image_background": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg"
+        }
+      ],
+      "publishers": [
+        {
+          "id": 11687,
+          "name": "Sony Interactive Entertainment",
+          "slug": "sony-interactive-entertainment",
+          "games_count": 296,
+          "image_background": "https://media.rawg.io/media/games/8da/8da6960974c2348585e6e99603c52126.jpg"
+        },
+        {
+          "id": 55134,
+          "name": "PlayStation PC",
+          "slug": "playstation-pc-llc",
+          "games_count": 13,
+          "image_background": "https://media.rawg.io/media/games/d4a/d4adb09d67998e339551acb0e15c1e99.jpg"
+        }
+      ],
+      "esrb_rating": {
+        "id": 4,
+        "name": "Mature",
+        "slug": "mature"
+      },
+      "clip": null,
+      "description_raw": "It is a new beginning for Kratos. Living as a man outside the shadow of the gods, he ventures into the brutal Norse wilds with his son Atreus, fighting to fulfill a deeply personal quest. \r\n\r\nHis vengeance against the Gods of Olympus years behind him, Kratos now lives as a man in the realm of Norse Gods and monsters. It is in this harsh, unforgiving world that he must fight to survive… And teach his son to do the same. This startling reimagining of God of War deconstructs the core elements that defined the series—satisfying combat; breathtaking scale; and a powerful narrative—and fuses them anew. \r\n\r\nKratos is a father again. As mentor and protector to Atreus, a son determined to earn his respect, he is forced to deal with and control the rage that has long defined him while out in a very dangerous world with his son. \r\n\r\nFrom the marble and columns of ornate Olympus to the gritty forests, mountains, and caves of Pre-Viking Norse lore, this is a distinctly new realm with its own pantheon of creatures, monsters, and gods. With an added emphasis on discovery and exploration, the world will draw players in to explore every inch of God of War’s breathtakingly threatening landscape—by far the largest in the franchise. \r\n\r\nWith an over the shoulder free camera that brings the player closer to the action than ever before, fights in God of War mirror the pantheon of Norse creatures Kratos will face: grand, gritty, and grueling. A new main weapon and new abilities retain the defining spirit of God of War while presenting a vision of violent conflict that forges new ground in the genre",
+      "price": 73
+    },
+    {
+      "id": 43752,
+      "slug": "ea-sports-nhl-18",
+      "name": "EA SPORTS NHL 18",
+      "name_original": "EA SPORTS NHL 18",
+      "description": "<p>EA SPORTS NHL 18 introduces the thrill and creativity of today&#39;s young NHL superstars through new Creative Skill Stick gameplay controls, a brand new 3-on-3 arcade-inspired hockey experience in <em>NHL Threes,</em> and the most multiplayer options to play cooperatively or competitively with friends ever delivered in a sports videogame.</p>\n<p>New Creative Skill Stick controls let you execute the highlight-reel, jaw-dropping plays seen in the new NHL by the likes of Connor McDavid, Auston Matthews and Patrik Laine. On attack, all-new creative dekes freeze goalies and defenders with between-the-legs shooting, one-handed dekes, band-handed toe-drags and much more - including linked dekes for moment-to-moment decision making. New through-passing allows you to pass pucks into space for players to skate onto, or bank them off the boards to teammates and to yourself to beat a defender. On defense, the all-new Defensive Skill Stick lets you get creative on defense with poke check targeting, extended pokes, and controlled stick sweeps to cover zones of the ice and takeaway passing lanes. New Creative A.I. also means your teammates leverage all the same creative tools  as you, making for beautiful, intelligent decision-making all over the ice.</p>\n<p>Introducing a bold new take on the insane, over-the-top action of 3-on-3 hockey with <em>NHL Threes</em> – an all-new arcade-inspired hockey experience with faster skating, harder hits, and pick-and-up-and-play fun to score big goals. Enter wild arenas with all-new commentary and pick your style of play, from fast-fun couch modes to fully competitive online team play where you choose the game rules and modifiers. Take on the <em>NHL Threes</em> circuit mode and play through regional circuits, from minor leagues to the big show, completing challenges and unlocking surprises along the way. NHL Threes combines the best arcade era fun with authentic 3-on-3 overtime action that is made to be played with friends.</p>\n<p>No other sports game allows you to team up with friends and hit the ice like <em>NHL 18</em>. Whether you’re playing cooperatively or competitively, offline on the couch or online with up to 12 players, <em>NHL 18</em> delivers more than 64 combinations to team up with or against friends locally or online. Team up cooperatively with a friend on the couch and another friend online. Or play as a team with three friends on the couch and two friends online, all playing competitively against 6 other players online. No matter how you want to play, NHL 18 offers more ways to play multiplayer with your friends or against your rivals than any other sports videogame.</p>\n<p>Experience the brand new NHL first in <em>NHL 18</em> with the all-new Vegas Golden Knights as the 31st NHL team. Take on the head office role and be the first to draft the Golden Knights using the all-new Expansion Draft feature in Franchise Mode, complete with the authentic jerseys and arena. Or change the face of the league completely by creating and drafting an entirely new 32nd team wherever you choose, including the arena, logo, jersey, and even the mascot.</p>",
+      "metacritic": 76,
+      "metacritic_platforms": [],
+      "released": "2017-09-15",
+      "tba": false,
+      "updated": "2024-01-07T04:14:13",
+      "background_image": "https://media.rawg.io/media/games/f90/f903702ba39094082dc136219b8c9b8b.jpeg",
+      "background_image_additional": "https://media.rawg.io/media/screenshots/bfd/bfdbe8db69761e07ef971c3ebbd79d89.jpg",
+      "website": "https://www.easports.com/nhl/",
+      "rating": 3.34,
+      "rating_top": 4,
+      "ratings": [
+        {
+          "id": 4,
+          "title": "recommended",
+          "count": 37,
+          "percent": 50
+        },
+        {
+          "id": 3,
+          "title": "meh",
+          "count": 21,
+          "percent": 28.38
+        },
+        {
+          "id": 1,
+          "title": "skip",
+          "count": 11,
+          "percent": 14.86
+        },
+        {
+          "id": 5,
+          "title": "exceptional",
+          "count": 5,
+          "percent": 6.76
+        }
+      ],
+      "reactions": {
+        "4": 1
+      },
+      "added": 273,
+      "added_by_status": {
+        "yet": 5,
+        "owned": 214,
+        "beaten": 22,
+        "toplay": 1,
+        "dropped": 28,
+        "playing": 3
+      },
+      "playtime": 0,
+      "screenshots_count": 5,
+      "movies_count": 0,
+      "creators_count": 0,
+      "achievements_count": 99,
+      "parent_achievements_count": 99,
+      "reddit_url": "",
+      "reddit_name": "",
+      "reddit_description": "",
+      "reddit_logo": "",
+      "reddit_count": 0,
+      "twitch_count": 0,
+      "youtube_count": 279780,
+      "reviews_text_count": 1,
+      "ratings_count": 73,
+      "suggestions_count": 171,
+      "alternative_names": [],
+      "metacritic_url": "",
+      "parents_count": 0,
+      "additions_count": 0,
+      "game_series_count": 9,
+      "user_game": null,
+      "reviews_count": 74,
+      "saturated_color": "0f0f0f",
+      "dominant_color": "0f0f0f",
+      "parent_platforms": [
+        {
+          "platform": {
+            "id": 2,
+            "name": "PlayStation",
+            "slug": "playstation"
+          }
+        },
+        {
+          "platform": {
+            "id": 3,
+            "name": "Xbox",
+            "slug": "xbox"
+          }
+        }
+      ],
+      "platforms": [
+        {
+          "platform": {
+            "id": 18,
+            "name": "PlayStation 4",
+            "slug": "playstation4",
+            "image": null,
+            "year_end": null,
+            "year_start": null,
+            "games_count": 6829,
+            "image_background": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg"
+          },
+          "released_at": null,
+          "requirements": {}
+        },
+        {
+          "platform": {
+            "id": 1,
+            "name": "Xbox One",
+            "slug": "xbox-one",
+            "image": null,
+            "year_end": null,
+            "year_start": null,
+            "games_count": 5641,
+            "image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+          },
+          "released_at": "2017-09-15",
+          "requirements": {}
+        }
+      ],
+      "stores": [
+        {
+          "id": 35190,
+          "url": "",
+          "store": {
+            "id": 3,
+            "name": "PlayStation Store",
+            "slug": "playstation-store",
+            "domain": "store.playstation.com",
+            "games_count": 7963,
+            "image_background": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg"
+          }
+        },
+        {
+          "id": 35178,
+          "url": "",
+          "store": {
+            "id": 2,
+            "name": "Xbox Store",
+            "slug": "xbox-store",
+            "domain": "microsoft.com",
+            "games_count": 4868,
+            "image_background": "https://media.rawg.io/media/games/157/15742f2f67eacff546738e1ab5c19d20.jpg"
+          }
+        }
+      ],
+      "developers": [
+        {
+          "id": 109,
+          "name": "Electronic Arts",
+          "slug": "electronic-arts",
+          "games_count": 318,
+          "image_background": "https://media.rawg.io/media/games/568/5689c58278e807c1574ceefb8dec026b.jpg"
+        }
+      ],
+      "genres": [
+        {
+          "id": 15,
+          "name": "Sports",
+          "slug": "sports",
+          "games_count": 21679,
+          "image_background": "https://media.rawg.io/media/screenshots/ad1/ad15e71b0a3d431ce0a59bcd783efa88.jpg"
+        }
+      ],
+      "tags": [
+        {
+          "id": 31,
+          "name": "Singleplayer",
+          "slug": "singleplayer",
+          "language": "eng",
+          "games_count": 227300,
+          "image_background": "https://media.rawg.io/media/games/490/49016e06ae2103881ff6373248843069.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Multiplayer",
+          "slug": "multiplayer",
+          "language": "eng",
+          "games_count": 38617,
+          "image_background": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg"
+        },
+        {
+          "id": 5700,
+          "name": "hockey",
+          "slug": "hockey",
+          "language": "eng",
+          "games_count": 462,
+          "image_background": "https://media.rawg.io/media/games/9ef/9eff74427541e502c1587a33f08dfca5.jpg"
+        }
+      ],
+      "publishers": [
+        {
+          "id": 354,
+          "name": "Electronic Arts",
+          "slug": "electronic-arts",
+          "games_count": 1325,
+          "image_background": "https://media.rawg.io/media/games/8e4/8e4de3f54ac659e08a7ba6a2b731682a.jpg"
+        }
+      ],
+      "esrb_rating": null,
+      "clip": null,
+      "description_raw": "EA SPORTS NHL 18 introduces the thrill and creativity of today's young NHL superstars through new Creative Skill Stick gameplay controls, a brand new 3-on-3 arcade-inspired hockey experience in *NHL Threes,* and the most multiplayer options to play cooperatively or competitively with friends ever delivered in a sports videogame.\r\n\r\nNew Creative Skill Stick controls let you execute the highlight-reel, jaw-dropping plays seen in the new NHL by the likes of Connor McDavid, Auston Matthews and Patrik Laine. On attack, all-new creative dekes freeze goalies and defenders with between-the-legs shooting, one-handed dekes, band-handed toe-drags and much more - including linked dekes for moment-to-moment decision making. New through-passing allows you to pass pucks into space for players to skate onto, or bank them off the boards to teammates and to yourself to beat a defender. On defense, the all-new Defensive Skill Stick lets you get creative on defense with poke check targeting, extended pokes, and controlled stick sweeps to cover zones of the ice and takeaway passing lanes. New Creative A.I. also means your teammates leverage all the same creative tools  as you, making for beautiful, intelligent decision-making all over the ice.\r\n\r\nIntroducing a bold new take on the insane, over-the-top action of 3-on-3 hockey with *NHL Threes* – an all-new arcade-inspired hockey experience with faster skating, harder hits, and pick-and-up-and-play fun to score big goals. Enter wild arenas with all-new commentary and pick your style of play, from fast-fun couch modes to fully competitive online team play where you choose the game rules and modifiers. Take on the *NHL Threes* circuit mode and play through regional circuits, from minor leagues to the big show, completing challenges and unlocking surprises along the way. NHL Threes combines the best arcade era fun with authentic 3-on-3 overtime action that is made to be played with friends.\r\n\r\nNo other sports game allows you to team up with friends and hit the ice like *NHL 18*. Whether you’re playing cooperatively or competitively, offline on the couch or online with up to 12 players, *NHL 18* delivers more than 64 combinations to team up with or against friends locally or online. Team up cooperatively with a friend on the couch and another friend online. Or play as a team with three friends on the couch and two friends online, all playing competitively against 6 other players online. No matter how you want to play, NHL 18 offers more ways to play multiplayer with your friends or against your rivals than any other sports videogame.\r\n\r\nExperience the brand new NHL first in *NHL 18* with the all-new Vegas Golden Knights as the 31st NHL team. Take on the head office role and be the first to draft the Golden Knights using the all-new Expansion Draft feature in Franchise Mode, complete with the authentic jerseys and arena. Or change the face of the league completely by creating and drafting an entirely new 32nd team wherever you choose, including the arena, logo, jersey, and even the mascot.",
+      "price": 50
+    }
+  ]
+}

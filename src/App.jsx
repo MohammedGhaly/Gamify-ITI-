@@ -6,20 +6,31 @@ import LoginPage from "./Pages/LoginPage";
 import CartPage from "./Pages/CartPage";
 import GamePage from "./Pages/GamePage";
 import { AuthenticationProvider } from "./Contexts/AuthContext";
+import { StoreGamesProvider } from "./Contexts/StoreGamesContext";
+import RawgStorePage from "./Pages/RawgStorePage";
+import { GameQueryProvider } from "./Contexts/GameQueryContext";
+import { CartProvider } from "./Contexts/CartContext";
 
 function App() {
   return (
     <BrowserRouter>
       <AuthenticationProvider>
-        <Routes>
-          <Route path="/" element={<AppLayout />}>
-            <Route index element={<LandingPage />} />
-            <Route path="login" element={<LoginPage />}></Route>
-            <Route path="home" element={<HomePage />}></Route>
-            <Route path="cart" element={<CartPage />}></Route>
-            <Route path="game/:id" element={<GamePage />}></Route>
-          </Route>
-        </Routes>
+        <GameQueryProvider>
+          <StoreGamesProvider>
+            <CartProvider>
+              <Routes>
+                <Route path="/" element={<AppLayout />}>
+                  <Route index element={<LandingPage />} />
+                  <Route path="login" element={<LoginPage />}></Route>
+                  <Route path="home" element={<HomePage />}></Route>
+                  <Route path="rawg" element={<RawgStorePage />}></Route>
+                  <Route path="cart" element={<CartPage />}></Route>
+                  <Route path="game/:id" element={<GamePage />}></Route>
+                </Route>
+              </Routes>
+            </CartProvider>
+          </StoreGamesProvider>
+        </GameQueryProvider>
       </AuthenticationProvider>
     </BrowserRouter>
   );

@@ -17,7 +17,9 @@ function useData(endpoint, requestConfig, deps) {
           ...requestConfig,
         })
         .then((res) => {
-          setData(res.data.results);
+          if (endpoint.startsWith("/games/") && endpoint.length > 7)
+            setData(res.data);
+          else setData(res.data.results);
           setIsLoading(false);
         })
         .catch((err) => {

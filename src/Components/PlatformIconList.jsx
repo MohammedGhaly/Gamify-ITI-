@@ -23,11 +23,17 @@ const iconsMap = {
   android: FaAndroid,
 };
 
-function PlatformIconList({ platforms }) {
+function PlatformIconList({ platforms, size = "1em" }) {
   return (
-    <HStack marginY={1}>
-      {platforms.map((platform) => (
-        <Icon key={platform.id} as={iconsMap[platform.slug]} color="gray.500">
+    <HStack marginY={1} justify="center">
+      {platforms?.map((platform) => (
+        <Icon
+          key={platform.id}
+          as={iconsMap[platform.slug]}
+          color="gray.500"
+          w={size}
+          h={size}
+        >
           {platform.name}
         </Icon>
       ))}

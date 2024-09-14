@@ -8,9 +8,11 @@ import {
 } from "@chakra-ui/react";
 import { BsChevronDown } from "react-icons/bs";
 import usePlatforms from "../hooks/usePlatforms";
+import { useGameQuery } from "../Contexts/GameQueryContext";
 
 function PlatformSelector({ selectedPlatform, setSelectedPlatform }) {
   const { data, isLoading, error } = usePlatforms();
+  const { removeQuery } = useGameQuery();
   if (error) return null;
 
   return (
@@ -20,14 +22,21 @@ function PlatformSelector({ selectedPlatform, setSelectedPlatform }) {
       </MenuButton>
       <MenuList>
         {isLoading && <Spinner />}
-        {data.map((platform) => (
-          <MenuItem
-            onClick={() => setSelectedPlatform(platform)}
-            key={platform.id}
-          >
-            {platform.name}
-          </MenuItem>
-        ))}
+        {
+          <>
+            <MenuItem key="all" onClick={() => removeQuery("platform")}>
+              All
+            </MenuItem>
+            {data.map((platform) => (
+              <MenuItem
+                onClick={() => setSelectedPlatform(platform)}
+                key={platform.id}
+              >
+                {platform.name}
+              </MenuItem>
+            ))}
+          </>
+        }
       </MenuList>
     </Menu>
   );

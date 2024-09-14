@@ -3,10 +3,10 @@ import GenresList from "../Components/GenresList";
 import GameHeading from "../Components/GameHeading";
 import PlatformSelector from "../Components/PlatformSelector";
 import SortSelector from "../Components/SortSelector";
-import StoreGameGrid from "../Components/StoreGameGrid";
+import GameGrid from "../Components/GameGrid";
 import { useGameQuery } from "../Contexts/GameQueryContext";
 
-function HomePage() {
+function RawgStorePage() {
   const { gameQuery, setGameQuery } = useGameQuery();
   return (
     <>
@@ -27,7 +27,7 @@ function HomePage() {
               setSelectedGenre={(genre) =>
                 setGameQuery({ ...gameQuery, genre })
               }
-              selectedGenre={gameQuery?.genre}
+              selectedGenre={gameQuery.genre}
             />
           </GridItem>
         </Show>
@@ -36,23 +36,23 @@ function HomePage() {
 
           <HStack spacing={3} marginBottom={4}>
             <PlatformSelector
-              selectedPlatform={gameQuery?.platform}
+              selectedPlatform={gameQuery.platform}
               setSelectedPlatform={(platform) =>
                 setGameQuery({ ...gameQuery, platform })
               }
             />
             <SortSelector
-              sortOrder={gameQuery?.sortOrder}
+              sortOrder={gameQuery.sortOrder}
               onSelectSortOrder={(sortOrder) =>
                 setGameQuery({ ...gameQuery, sortOrder })
               }
             />
           </HStack>
-          <StoreGameGrid />
+          <GameGrid gameQuery={gameQuery} />
         </GridItem>
       </Grid>
     </>
   );
 }
 
-export default HomePage;
+export default RawgStorePage;

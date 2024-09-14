@@ -9,6 +9,7 @@ function useGames(gameQuery) {
         platforms: gameQuery.platform?.id,
         ordering: gameQuery.sortOrder,
         search: gameQuery.searchText,
+        id: gameQuery.id,
       },
     },
     [gameQuery]

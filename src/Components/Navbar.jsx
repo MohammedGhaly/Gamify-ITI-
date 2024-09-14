@@ -9,15 +9,20 @@ import { Link, useNavigate } from "react-router-dom";
 import { RiLoginBoxFill } from "react-icons/ri";
 import { RiLogoutBoxFill } from "react-icons/ri";
 import ColorModeSwitch from "./ColorModeSwitch";
-// import { FaInfo } from "react-icons/fa";
-import React from "react";
 import { useAuth } from "../Contexts/AuthContext";
 import SearchInput from "./SearchInput";
 import { IoHomeSharp } from "react-icons/io5";
+import { FaShoppingCart } from "react-icons/fa";
+import { TbSquareLetterRFilled } from "react-icons/tb";
+import { useGameQuery } from "../Contexts/GameQueryContext";
+import { memo } from "react";
 
-const NavBar = React.memo(function NavBar() {
+const NavBar = memo(function NavBar() {
   const { role, resetUser } = useAuth();
   const { colorMode } = useColorMode();
+
+  const { gameQuery, setGameQuery } = useGameQuery();
+
   const navigate = useNavigate();
   const dynamicTooltipColorValue =
     colorMode === "light" ? "#3182ce" : "#90cdf4";
@@ -45,7 +50,13 @@ const NavBar = React.memo(function NavBar() {
           Gamify
         </Text>
       </Link>
-      {role === "admin" && <SearchInput />}
+      {role === "admin" && (
+        <SearchInput
+          onSearch={(searchText) => {
+            setGameQuery({ ...gameQuery, searchText });
+          }}
+        />
+      )}
       <HStack spacing={2}>
         <Link to="/home" className="nav-item">
           <Tooltip label="home" bgColor={dynamicTooltipColorValue}>
@@ -54,6 +65,30 @@ const NavBar = React.memo(function NavBar() {
               aria-label="home button"
               overflow="hidden"
               icon={<IoHomeSharp size={20} />}
+              borderRadius="50%"
+            />
+          </Tooltip>
+        </Link>
+        {role === "admin" && (
+          <Link to="/rawg" className="nav-item">
+            <Tooltip label="rawg" bgColor={dynamicTooltipColorValue}>
+              <IconButton
+                colorScheme="blue"
+                aria-label="rawg store button"
+                overflow="hidden"
+                icon={<TbSquareLetterRFilled size={20} />}
+                borderRadius="50%"
+              />
+            </Tooltip>
+          </Link>
+        )}
+        <Link to="/cart" className="nav-item">
+          <Tooltip label="cart" bgColor={dynamicTooltipColorValue}>
+            <IconButton
+              colorScheme="blue"
+              aria-label="cart button"
+              overflow="hidden"
+              icon={<FaShoppingCart size={20} />}
               borderRadius="50%"
             />
           </Tooltip>
