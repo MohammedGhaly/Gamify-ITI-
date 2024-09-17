@@ -1,4 +1,4 @@
-import { useParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import useGame from "../hooks/useGame";
 import {
   Badge,
@@ -19,6 +19,7 @@ import { useCart } from "../Contexts/CartContext";
 function GamePage() {
   const { role } = useAuth();
   const { id } = useParams();
+  const navigate = useNavigate();
   const { addGame, removeGame, isInCart, setCurrentCartGameId } = useCart();
   const { createStoreGame, deleteStoreGame, setCurrentGameId, isInStore } =
     useStoreGames();
@@ -95,8 +96,12 @@ function GamePage() {
                 ) : (
                   <Button
                     colorScheme="blue"
-                    color="white"
-                    onClick={() => addGame(game)}
+                    onClick={() => {
+                      if (!role) {
+                        navigate("/login");
+                      }
+                      addGame(game);
+                    }}
                   >
                     Add to Cart
                   </Button>

@@ -10,6 +10,7 @@ import { StoreGamesProvider } from "./Contexts/StoreGamesContext";
 import RawgStorePage from "./Pages/RawgStorePage";
 import { GameQueryProvider } from "./Contexts/GameQueryContext";
 import { CartProvider } from "./Contexts/CartContext";
+import ProtectedRoute from "./Components/ProtectedRoute";
 
 function App() {
   return (
@@ -23,7 +24,14 @@ function App() {
                   <Route index element={<LandingPage />} />
                   <Route path="login" element={<LoginPage />}></Route>
                   <Route path="home" element={<HomePage />}></Route>
-                  <Route path="rawg" element={<RawgStorePage />}></Route>
+                  <Route
+                    path="rawg"
+                    element={
+                      <ProtectedRoute>
+                        <RawgStorePage />
+                      </ProtectedRoute>
+                    }
+                  ></Route>
                   <Route path="cart" element={<CartPage />}></Route>
                   <Route path="game/:id" element={<GamePage />}></Route>
                 </Route>

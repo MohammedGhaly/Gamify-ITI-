@@ -5,7 +5,7 @@ import {
   Tooltip,
   useColorMode,
 } from "@chakra-ui/react";
-import { Link, useNavigate } from "react-router-dom";
+import { Link, useLocation, useNavigate } from "react-router-dom";
 import { RiLoginBoxFill } from "react-icons/ri";
 import { RiLogoutBoxFill } from "react-icons/ri";
 import ColorModeSwitch from "./ColorModeSwitch";
@@ -17,15 +17,16 @@ import { TbSquareLetterRFilled } from "react-icons/tb";
 import { useGameQuery } from "../Contexts/GameQueryContext";
 import { memo } from "react";
 
+const searchBarRoutes = ["/home", "/rawg"];
+
 const NavBar = memo(function NavBar() {
   const { role, resetUser } = useAuth();
   const { colorMode } = useColorMode();
-
   const { gameQuery, setGameQuery } = useGameQuery();
-
   const navigate = useNavigate();
   const dynamicTooltipColorValue =
     colorMode === "light" ? "#3182ce" : "#90cdf4";
+  const location = useLocation();
 
   return (
     <HStack
@@ -50,7 +51,7 @@ const NavBar = memo(function NavBar() {
           Gamify
         </Text>
       </Link>
-      {role === "admin" && (
+      {searchBarRoutes.includes(location.pathname) && (
         <SearchInput
           onSearch={(searchText) => {
             setGameQuery({ ...gameQuery, searchText });

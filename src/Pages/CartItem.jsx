@@ -1,14 +1,24 @@
-import { Badge, Box, Button, Flex, Heading, Img } from "@chakra-ui/react";
+import {
+  Badge,
+  Box,
+  Button,
+  Flex,
+  Heading,
+  Img,
+  useColorMode,
+} from "@chakra-ui/react";
 import getCroppedUrl from "../Services/image-url";
 
 function CartItem({ game, removeGame }) {
   const genres = game?.genres?.map((genre) => genre.name);
+  const { colorMode } = useColorMode();
+  const dynamicBadgeColorValue = colorMode === "light" ? "#b4d5f0" : "#496e85";
 
   return (
     <Flex
       justify="space-between"
       alignItems="center"
-      bgColor="#07060c"
+      bgColor="#5757571f"
       padding={6}
       borderRadius="10px"
     >
@@ -30,7 +40,13 @@ function CartItem({ game, removeGame }) {
               {game.name}
             </Heading>
             {genres.map((g) => (
-              <Badge key={g} padding={2} fontSize="14px" marginRight={3}>
+              <Badge
+                bgColor={dynamicBadgeColorValue}
+                key={g}
+                padding={2}
+                fontSize="14px"
+                marginRight={3}
+              >
                 {g}
               </Badge>
             ))}
@@ -41,7 +57,7 @@ function CartItem({ game, removeGame }) {
           </Heading>
         </Box>
       </Flex>
-      <Button bgColor="red" onClick={removeGame}>
+      <Button bgColor="red" onClick={removeGame} color="white">
         Remove
       </Button>
     </Flex>
