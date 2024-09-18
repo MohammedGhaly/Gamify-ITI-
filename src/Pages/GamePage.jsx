@@ -15,6 +15,7 @@ import PlatformIconList from "../Components/PlatformIconList";
 import { useAuth } from "../Contexts/AuthContext";
 import { useStoreGames } from "../Contexts/StoreGamesContext";
 import { useCart } from "../Contexts/CartContext";
+import bgImage from '../assets/Vector.png'
 
 function GamePage() {
   const { role } = useAuth();
@@ -47,7 +48,7 @@ function GamePage() {
   );
 
   return (
-    <div>
+    <Box bgImage={bgImage} minH={'89vh'}>
       {isLoading && (
         <Flex w="100%" h="500px" justifyContent="center" alignItems="center">
           <Spinner w={20} h={20} thickness="5px" />
@@ -175,7 +176,7 @@ function GamePage() {
           </Flex>
         </Box>
       )}
-    </div>
+    </Box>
   );
 }
 

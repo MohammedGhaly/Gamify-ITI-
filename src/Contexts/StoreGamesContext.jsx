@@ -31,7 +31,7 @@ function StoreGamesProvider({ children }) {
       } catch (e) {
         setIsLoading(false);
         console.log(e);
-        console.log("error happened during fetching cities");
+        console.log("error happened during fetching games");
       }
     }
     fetchStoreGames();

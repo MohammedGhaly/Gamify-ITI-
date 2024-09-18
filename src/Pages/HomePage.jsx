@@ -5,12 +5,14 @@ import PlatformSelector from "../Components/PlatformSelector";
 import SortSelector from "../Components/SortSelector";
 import StoreGameGrid from "../Components/StoreGameGrid";
 import { useGameQuery } from "../Contexts/GameQueryContext";
+import bgImage from "../assets/Vector.png";
 
 function HomePage() {
   const { gameQuery, setGameQuery } = useGameQuery();
   return (
     <>
       <Grid
+        bgImage={bgImage}
         templateAreas={{
           base: ` "aside main"`,
         }}
@@ -19,7 +21,7 @@ function HomePage() {
           lg: "200px 1fr",
         }}
         marginTop={2}
-        marginBottom={20}
+        paddingBottom={20}
       >
         <Show above="lg">
           <GridItem area="aside" paddingX={5}>

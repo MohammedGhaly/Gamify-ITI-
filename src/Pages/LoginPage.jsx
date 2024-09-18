@@ -137,6 +137,24 @@ function LoginPage() {
               />
               {errors.password && <span>{errors.password}</span>}
             </div>
+            <div>
+              <Input
+                margin="auto"
+                display="flex"
+                name="phone"
+                width="350px"
+                borderRadius="none"
+                type="tel"
+                pattern="[0-9]{11}"
+                border="2px"
+                borderColor="black"
+                placeholder="Phone number"
+                _placeholder={{ color: "grey" }}
+                onChange={handleChange}
+                size="md"
+              />
+              {errors.password && <span>{errors.password}</span>}
+            </div>
           </Stack>
           <Box display="flex" justifyContent="space-between">
             <Text

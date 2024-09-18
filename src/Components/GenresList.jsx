@@ -5,6 +5,7 @@ import {
   Image,
   List,
   ListItem,
+  useColorMode,
 } from "@chakra-ui/react";
 import useGenres from "../hooks/useGenres";
 import getCroppedUrl from "../Services/image-url";
@@ -16,6 +17,8 @@ const skeletons = [1, 2, 3, 4, 5, 6, 7, 8];
 function GenresList({ setSelectedGenre, selectedGenre }) {
   const { data, isLoading, error } = useGenres();
   const { removeQuery } = useGameQuery();
+  const {colorMode} = useColorMode()
+  console.log(colorMode)
   if (error) return null;
 
   return (
@@ -50,13 +53,14 @@ function GenresList({ setSelectedGenre, selectedGenre }) {
                     whiteSpace="normal"
                     textAlign="left"
                     fontWeight={
-                      genre.id === selectedGenre?.id ? "bold" : "normal"
+                      genre.id === selectedGenre?.id ? "800" : "500"
                     }
                     variant="link"
                     fontSize="lg"
                     onClick={() => {
                       setSelectedGenre(genre);
                     }}
+                    color={colorMode === 'dark' ? 'white' : 'black'}
                   >
                     {genre.name}
                   </Button>
