@@ -16,6 +16,10 @@ function CartProvider({ children }) {
     [currentCartGameId, cartGames]
   );
 
+  function submitOrder() {
+    setCartGames([]);
+    alert('order submitted successfully')
+  }
   function addGame(game) {
     setCartGames([...cartGames, game]);
   }
@@ -34,6 +38,7 @@ function CartProvider({ children }) {
         removeGame,
         resetCart,
         setCurrentCartGameId,
+        submitOrder,
       }}
     >
       {children}
