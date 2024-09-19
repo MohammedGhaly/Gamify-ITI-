@@ -1,8 +1,20 @@
-# React + Vite
+# Gamify
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+a web app that serves as a store for video games where the admin can use rawg.io api to add games to his store, and users can browse and buy the games in the store.
 
-Currently, two official plugins are available:
+## installation
+clone the repository and run the following commands in the terminal
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+npm i
+npm run server
+npm run dev
+```
+
+open your browser and navigate to `http://localhost:5173`
+
+
+## instructions
+
+to register as an admin use the email : `admin@email.com`
+this will enable the admin to navigate to rawg.io api games and add them to the store
