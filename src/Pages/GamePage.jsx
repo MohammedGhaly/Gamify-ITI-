@@ -15,7 +15,7 @@ import PlatformIconList from "../Components/PlatformIconList";
 import { useAuth } from "../Contexts/AuthContext";
 import { useStoreGames } from "../Contexts/StoreGamesContext";
 import { useCart } from "../Contexts/CartContext";
-import bgImage from '../assets/Vector.png'
+import bgImage from "../assets/Vector.png";
 
 function GamePage() {
   const { role } = useAuth();
@@ -48,7 +48,7 @@ function GamePage() {
   );
 
   return (
-    <Box bgImage={bgImage} minH={'89vh'}>
+    <Box bgImage={bgImage} minH={"89vh"}>
       {isLoading && (
         <Flex w="100%" h="500px" justifyContent="center" alignItems="center">
           <Spinner w={20} h={20} thickness="5px" />
@@ -88,15 +88,14 @@ function GamePage() {
               <Flex justify="center" gap={12} marginTop={12}>
                 {isInCart ? (
                   <Button
-                    colorScheme="blue"
-                    color="white"
+                    colorScheme="orange"
                     onClick={() => removeGame(game.id)}
                   >
                     remove from Cart
                   </Button>
                 ) : (
                   <Button
-                    colorScheme="blue"
+                    colorScheme="orange"
                     onClick={() => {
                       if (!role) {
                         navigate("/login");
@@ -110,16 +109,14 @@ function GamePage() {
                 {role === "admin" &&
                   (isInStore ? (
                     <Button
-                      colorScheme="blue"
-                      color="white"
+                      colorScheme="orange"
                       onClick={() => deleteStoreGame(game.id)}
                     >
                       Remove from store
                     </Button>
                   ) : (
                     <Button
-                      colorScheme="blue"
-                      color="white"
+                      colorScheme="orange"
                       onClick={() => createStoreGame(game)}
                     >
                       Add to store

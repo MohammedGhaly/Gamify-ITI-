@@ -12,13 +12,14 @@ import getCroppedUrl from "../Services/image-url";
 function CartItem({ game, removeGame }) {
   const genres = game?.genres?.map((genre) => genre.name);
   const { colorMode } = useColorMode();
-  const dynamicBadgeColorValue = colorMode === "light" ? "#b4d5f0" : "#496e85";
+  const dynamicBadgeColorValue = colorMode === "light" ? "#ff8800" : "#ff8800";
 
   return (
     <Flex
       justify="space-between"
       alignItems="center"
-      bgColor="#5757571f"
+      bgColor="#aaaaaa92"
+      backdropFilter='blur(3px)'
       padding={6}
       borderRadius="10px"
     >
@@ -46,6 +47,8 @@ function CartItem({ game, removeGame }) {
                 padding={2}
                 fontSize="14px"
                 marginRight={3}
+                borderRadius={6}
+                color={colorMode === 'dark' ? 'white' : 'black'}
               >
                 {g}
               </Badge>

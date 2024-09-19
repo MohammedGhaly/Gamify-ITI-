@@ -99,12 +99,14 @@ function LoginPage() {
                   onChange={handleChange}
                   _placeholder={{ color: "grey" }}
                   size="md"
+                  color='black'
                 />
                 {errors.username && <span>{errors.username}</span>}
               </div>
             )}
             <div>
               <Input
+                color='black'
                 margin="auto"
                 display="flex"
                 name="email"
@@ -122,6 +124,7 @@ function LoginPage() {
             </div>
             <div>
               <Input
+                color='black'
                 margin="auto"
                 display="flex"
                 name="password"
@@ -137,24 +140,27 @@ function LoginPage() {
               />
               {errors.password && <span>{errors.password}</span>}
             </div>
-            <div>
-              <Input
-                margin="auto"
-                display="flex"
-                name="phone"
-                width="350px"
-                borderRadius="none"
-                type="tel"
-                pattern="[0-9]{11}"
-                border="2px"
-                borderColor="black"
-                placeholder="Phone number"
-                _placeholder={{ color: "grey" }}
-                onChange={handleChange}
-                size="md"
-              />
-              {errors.password && <span>{errors.password}</span>}
-            </div>
+            {currentState === "Login" ? null : (
+              <div>
+                <Input
+                  color='black'
+                  margin="auto"
+                  display="flex"
+                  name="phone"
+                  width="350px"
+                  borderRadius="none"
+                  type="tel"
+                  pattern="[0-9]{11}"
+                  border="2px"
+                  borderColor="black"
+                  placeholder="Phone number"
+                  _placeholder={{ color: "grey" }}
+                  onChange={handleChange}
+                  size="md"
+                />
+                {errors.phone && <span>{errors.phone}</span>}
+              </div>
+            )}
           </Stack>
           <Box display="flex" justifyContent="space-between">
             <Text

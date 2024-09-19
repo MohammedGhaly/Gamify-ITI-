@@ -86,7 +86,7 @@ function StoreGamesProvider({ children }) {
   async function deleteStoreGame(gameId) {
     setIsLoading(true);
     try {
-      await fetch(`${URL}cities/${gameId}`, {
+      await fetch(`${URL}storeGames/${gameId}`, {
         method: "DELETE",
       });
       setIsLoading(false);

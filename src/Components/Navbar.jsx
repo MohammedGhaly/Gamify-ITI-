@@ -3,7 +3,6 @@ import {
   IconButton,
   Text,
   Tooltip,
-  useColorMode,
 } from "@chakra-ui/react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import { RiLoginBoxFill } from "react-icons/ri";
@@ -21,11 +20,9 @@ const searchBarRoutes = ["/home", "/rawg"];
 
 const NavBar = memo(function NavBar() {
   const { role, resetUser } = useAuth();
-  const { colorMode } = useColorMode();
   const { gameQuery, setGameQuery } = useGameQuery();
   const navigate = useNavigate();
-  const dynamicTooltipColorValue =
-    colorMode === "light" ? "#3182ce" : "#90cdf4";
+  const dynamicTooltipColorValue = "#ff8800";
   const location = useLocation();
 
   return (
@@ -62,7 +59,7 @@ const NavBar = memo(function NavBar() {
         <Link to="/home" className="nav-item">
           <Tooltip label="home" bgColor={dynamicTooltipColorValue}>
             <IconButton
-              colorScheme="blue"
+              colorScheme="orange"
               aria-label="home button"
               overflow="hidden"
               icon={<IoHomeSharp size={20} />}
@@ -74,7 +71,7 @@ const NavBar = memo(function NavBar() {
           <Link to="/rawg" className="nav-item">
             <Tooltip label="rawg" bgColor={dynamicTooltipColorValue}>
               <IconButton
-                colorScheme="blue"
+                colorScheme="orange"
                 aria-label="rawg store button"
                 overflow="hidden"
                 icon={<TbSquareLetterRFilled size={20} />}
@@ -86,7 +83,7 @@ const NavBar = memo(function NavBar() {
         <Link to="/cart" className="nav-item">
           <Tooltip label="cart" bgColor={dynamicTooltipColorValue}>
             <IconButton
-              colorScheme="blue"
+              colorScheme="orange"
               aria-label="cart button"
               overflow="hidden"
               icon={<FaShoppingCart size={20} />}
@@ -98,7 +95,7 @@ const NavBar = memo(function NavBar() {
         {role !== "" ? (
           <Tooltip label="logout" bgColor={dynamicTooltipColorValue}>
             <IconButton
-              colorScheme="blue"
+              colorScheme="orange"
               aria-label="Logout button"
               overflow="hidden"
               icon={<RiLogoutBoxFill size={20} />}
@@ -113,7 +110,7 @@ const NavBar = memo(function NavBar() {
           <Link to="/login" className="nav-item">
             <Tooltip label="login" bgColor={dynamicTooltipColorValue}>
               <IconButton
-                colorScheme="blue"
+                colorScheme="orange"
                 aria-label="Login button"
                 overflow="hidden"
                 icon={<RiLoginBoxFill size={20} />}
